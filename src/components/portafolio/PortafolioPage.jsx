@@ -42,7 +42,7 @@ const PortafolioPage = () => {
           <h3>My webside</h3>
            <div className="portafolio__item-cta">
             <a href="https://github.com/deivish/My-Webside-dhc" className='btn' target='_blank'>Github</a>
-            <a href="https://my-webside-dhc.netlify.app/" className='btn btn-primary' target='_blank'>Proyecto</a>
+            <a href="https://dhcmywebside.netlify.app/" className='btn btn-primary' target='_blank'>Proyecto</a>
            </div>
         </article>
 
